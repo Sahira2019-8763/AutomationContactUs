@@ -16,7 +16,7 @@ JAVA.
 
 En el archivo xml utilicé las siguientes dependencias:
 
-<dependencies>
+/* <dependencies>
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
   <artifactId>selenium-java</artifactId>
@@ -29,7 +29,7 @@ En el archivo xml utilicé las siguientes dependencias:
   <version>4.13.2</version>
 <scope>test</scope>
 </dependency>
-</dependencies>
+</dependencies> */
 
 Librerías/paquetes usados:
 org.junit.After;
