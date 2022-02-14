@@ -14,22 +14,8 @@ Para realizar esta automatización fue necesario descargar:
 Lenguaje utilizado:
 JAVA.
 
-En el archivo xml utilicé las siguientes dependencias:
+En el archivo xml se encuentran las dependencias que usé.
 
-/* <dependencies>
-<dependency>
-  <groupId>org.seleniumhq.selenium</groupId>
-  <artifactId>selenium-java</artifactId>
-  <version>3.14.0</version>
-<scope>test</scope>
-</dependency>
-<dependency>
-  <groupId>junit</groupId>
-  <artifactId>junit</artifactId>
-  <version>4.13.2</version>
-<scope>test</scope>
-</dependency>
-</dependencies> */
 
 Librerías/paquetes usados:
 org.junit.After;
